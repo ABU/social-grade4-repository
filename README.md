@@ -1,15 +1,6 @@
 # 家鄉小偵探：四上社會複習
 
-## 發佈至 GitHub Pages
 
-1. 登入 GitHub，建立公開 repository（例如 `social-grade4`）。
-2. 選 **Add file → Upload files**，上傳本資料夾內的 `index.html` 和 `.nojekyll`，然後 **Commit changes**。請讓 `index.html` 位於 repository 最上層，不要整個外層資料夾一起上傳。
-3. 開啟 **Settings → Pages**。
-4. 在 **Build and deployment**，Source 選 **Deploy from a branch**。
-5. Branch 選 **main**，資料夾選 **/ (root)**，按 **Save**。
-6. 等待 Pages 發佈完成，回到此頁查看網址。一般形式是 `https://你的帳號.github.io/social-grade4/`。
-
-不用 npm、API 金鑰或付費主機。`index.html` 是完整單檔，雙擊也可離線作答。更新時只需覆蓋此檔並 commit。
 
 ## 內容與資料依據
 
